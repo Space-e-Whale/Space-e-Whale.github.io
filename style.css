@@ -1,0 +1,32 @@
+h1{
+	color: #ff00ff;
+	border-style:inset;
+	border-width:73px;
+}
+h2{
+	color:#00ff00;
+	border-style:inset;
+	border-width:8px;
+}
+h3{
+	color:ffff00;
+	border-style:solid;
+	border-width:1000px;
+	border-color:fff44f;
+}
+p{
+	color:#cc0066;
+	border-style:inset;
+	border-width:2px;
+	border-color:#00ff00;
+}
+ul{
+	color:ff9966;
+	
+}
+img{
+	border-style:solid;
+	border-width:2000px;
+	border-color:6666ff;
+	
+}
